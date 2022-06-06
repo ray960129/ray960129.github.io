@@ -1,0 +1,17 @@
+body{
+	background-color: pink;
+}
+h1 { color: purple }
+h2 { color: #d2691e }
+a:link {
+color:blue;
+text-decoration:underline;
+}
+a:visited {
+color:purple;
+text-decoration:none;
+}
+a:hover {
+color:#007c87;
+text-decoration:none;
+}
